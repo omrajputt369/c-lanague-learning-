@@ -47,7 +47,7 @@ This repository serves as a comprehensive collection of C programs I've written 
 
 ### 🔢 Number Pattern Program
 
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+<div style="font-size: 80px;">🔢</div>
 
 **File:** `number pattern.c`
 
@@ -67,7 +67,7 @@ A beautiful triangular number pattern generator that demonstrates nested loops a
 
 ### 🔤 Alphabet Pattern Program
 
-<img src="https://img.icons8.com/fluency/96/000000/abc.png" width="80"/>
+<div style="font-size: 80px;">🔤</div>
 
 **File:** `Alphabet pattern.c`
 
@@ -141,9 +141,9 @@ gcc "number pattern.c" -o number_pattern && ./number_pattern
 
 | Tool | Description | Installation |
 |:----:|:-----------:|:------------:|
-| ![GCC](https://img.icons8.com/color/48/000000/c-programming.png) | **GCC Compiler** | Pre-installed on macOS/Linux |
-| ![Terminal](https://img.icons8.com/fluency/48/000000/console.png) | **Terminal/Shell** | Built-in on all systems |
-| ![Editor](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png) | **Code Editor** | VS Code, Vim, or any editor |
+| 🔧 | **GCC Compiler** | Pre-installed on macOS/Linux |
+| 💻 | **Terminal/Shell** | Built-in on all systems |
+| 📝 | **Code Editor** | VS Code, Vim, or any editor |
 
 </div>
 
