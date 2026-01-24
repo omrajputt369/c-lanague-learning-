@@ -96,12 +96,20 @@ cd "om c lab"
 
 **2️⃣ Compile the program:**
 ```bash
+# For number pattern
 gcc "number pattern.c" -o number_pattern
+
+# For alphabet pattern
+gcc "Alphabet pattern.c" -o alphabet_pattern
 ```
 
 **3️⃣ Run the executable:**
 ```bash
+# Run number pattern
 ./number_pattern
+
+# Run alphabet pattern
+./alphabet_pattern
 ```
 
 </details>
