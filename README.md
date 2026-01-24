@@ -3,9 +3,10 @@
 # 🚀 C Language Learning Journey
 
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
+![Programs](https://img.shields.io/badge/Programs-2-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-orange?style=for-the-badge)
 
 ### 💡 *Mastering the fundamentals of C programming, one program at a time!*
 
@@ -64,15 +65,28 @@ A beautiful triangular number pattern generator that demonstrates nested loops a
 </td>
 <td align="center" width="50%">
 
-### � More Coming Soon!
+### 🔤 Alphabet Pattern Program
 
-<img src="https://img.icons8.com/fluency/96/000000/in-progress.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/abc.png" width="80"/>
 
-Stay tuned for more exciting programs covering:
-- 🔄 Data Structures
-- 🧮 Algorithms
-- 🎮 Mini Projects
-- 💾 File Operations
+**File:** `Alphabet pattern.c`
+
+A comprehensive program showcasing **4 different alphabet patterns** using nested loops and character manipulation.
+
+**✨ Patterns Included:**
+1. **Simple Alphabet Triangle** - Continuous alphabets
+2. **Repeating Alphabet Triangle** - Restarts from A
+3. **Same Letter Triangle** - Repeated letters
+4. **Alphabet Pyramid** - Centered pyramid
+
+**Sample Output (Pattern 2):**
+```
+A 
+A B 
+A B C 
+A B C D 
+A B C D E
+```
 
 </td>
 </tr>
