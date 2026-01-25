@@ -3,7 +3,7 @@
 # 🚀 C Language Learning Journey
 
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Programs](https://img.shields.io/badge/Programs-2-brightgreen?style=for-the-badge)
+![Programs](https://img.shields.io/badge/Programs-3-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-orange?style=for-the-badge)
@@ -90,6 +90,31 @@ A B C D E
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+
+### 💬 Input/Output Program
+
+<div style="font-size: 80px;">💬</div>
+
+**File:** `hello input output.c`
+
+An interactive program that demonstrates user input and formatted output in C using `scanf()` and `printf()`.
+
+**✨ Features:**
+- Takes user's name as input
+- Takes user's age as input
+- Displays personalized greeting
+
+**Sample Output:**
+```
+Enter name: om
+Enter age: 19
+Hello om, age = 19
+```
+
+</td>
+</tr>
 </table>
 
 ---
@@ -115,6 +140,9 @@ gcc "number pattern.c" -o number_pattern
 
 # For alphabet pattern
 gcc "Alphabet pattern.c" -o alphabet_pattern
+
+# For input/output program
+gcc "hello input output.c" -o hello_input_output
 ```
 
 **3️⃣ Run the executable:**
@@ -124,6 +152,9 @@ gcc "Alphabet pattern.c" -o alphabet_pattern
 
 # Run alphabet pattern
 ./alphabet_pattern
+
+# Run input/output program
+./hello_input_output
 ```
 
 </details>
