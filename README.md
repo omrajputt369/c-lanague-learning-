@@ -3,7 +3,7 @@
 # 🚀 C Language Learning Journey
 
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Programs](https://img.shields.io/badge/Programs-3-brightgreen?style=for-the-badge)
+![Programs](https://img.shields.io/badge/Programs-4-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-orange?style=for-the-badge)
@@ -115,6 +115,30 @@ Hello om, age = 19
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+
+### ❓ If-Else (Conditional) Program
+
+<div style="font-size: 80px;">❓</div>
+
+**File:** `ifelse.c`
+
+A simple conditional program that checks whether a number is even or odd using if-else statements.
+
+**✨ Features:**
+- Takes a number as input
+- Uses modulo operator (%) to check divisibility
+- Demonstrates if-else conditional logic
+
+**Sample Output:**
+```
+Enter n: 22
+Even
+```
+
+</td>
+</tr>
 </table>
 
 ---
@@ -143,6 +167,9 @@ gcc "Alphabet pattern.c" -o alphabet_pattern
 
 # For input/output program
 gcc "hello input output.c" -o hello_input_output
+
+# For if-else program
+gcc ifelse.c -o ifelse
 ```
 
 **3️⃣ Run the executable:**
@@ -155,6 +182,9 @@ gcc "hello input output.c" -o hello_input_output
 
 # Run input/output program
 ./hello_input_output
+
+# Run if-else program
+./ifelse
 ```
 
 </details>
